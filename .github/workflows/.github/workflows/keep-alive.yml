@@ -13,4 +13,4 @@ jobs:
 
       - name: Keep Replit Alive
         run: |
-          curl -s https://replit.com/@lukegoat42/YouthfulDistinctMemory > /dev/null
+          curl -s https://446bb411-eca4-4f2b-8e7f-766dc6504a0b-00-3s9lhh9t6f0zm.riker.replit.dev/ > /dev/null
